@@ -46,7 +46,7 @@
 		A1F71A3616B92CE600EFA636 = {
 			isa = PBXGroup;
 			children = (
-				A1F71A4816B92CE600EFA636 /* XmlFormater */,
+				A1F71A4816B92CE600EFA636 /* XmlFormatter */,
 				A1F71A4116B92CE600EFA636 /* Frameworks */,
 				A1F71A4016B92CE600EFA636 /* Products */,
 			);
@@ -79,7 +79,7 @@
 			name = "Other Frameworks";
 			sourceTree = "<group>";
 		};
-		A1F71A4816B92CE600EFA636 /* XmlFormater */ = {
+		A1F71A4816B92CE600EFA636 /* XmlFormatter */ = {
 			isa = PBXGroup;
 			children = (
 				A1F71A5416B92CE600EFA636 /* AppDelegate.h */,
@@ -87,6 +87,7 @@
 				A1F71A5716B92CE600EFA636 /* MainMenu.xib */,
 				A1F71A4916B92CE600EFA636 /* Supporting Files */,
 			);
+			name = XmlFormatter;
 			path = XmlFormater;
 			sourceTree = "<group>";
 		};
@@ -303,6 +304,7 @@
 				A1F71A5E16B92CE600EFA636 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
