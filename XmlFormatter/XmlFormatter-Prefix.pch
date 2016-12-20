@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'XmlFormater' target in the 'XmlFormater' project
+// Prefix header for all source files of the 'XmlFormatter' target in the 'XmlFormatter' project
 //
 
 #ifdef __OBJC__

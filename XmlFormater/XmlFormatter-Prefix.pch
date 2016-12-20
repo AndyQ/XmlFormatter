@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'XmlFormater' target in the 'XmlFormater' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-#endif
